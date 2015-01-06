@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'd0minikk:materialize-meteor',
+  name: 'LyuGGang:materialize-meteor',
   summary: 'A modern responsive front-end framework based on Material Design',
   version: '1.94.1',
-  git: 'https://github.com/d0minikk/materialize-meteor.git'
+  git: 'https://github.com/LyuGGang/materialize-meteor.git'
 });
 
 Package.onUse(function(api) {

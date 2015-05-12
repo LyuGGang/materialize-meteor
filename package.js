@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'LyuGGang:materialize-meteor',
+  name: 'XXX:XXX',
   summary: 'A modern responsive front-end framework based on Material Design',
   version: '1.94.1',
   git: 'https://github.com/LyuGGang/materialize-meteor.git'
